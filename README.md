@@ -220,7 +220,7 @@ git push origin feature-name
 **Priyanshu Raj**
 
 - GitHub: https://github.com/Priyanshu87571
-- LinkedIn: *(Add your LinkedIn profile here)*
+- LinkedIn: https://www.linkedin.com/in/priyanshu-raj-162763306/
 
 ---
 
