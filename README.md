@@ -1,4 +1,4 @@
-# 🎉 Eventora - Event Booking Platform
+# 🎉Event Booking Platform
 
 A full-stack Event Booking Platform built with the **MERN Stack** that allows users to discover events, book tickets securely, and manage their bookings. The platform also provides an admin dashboard for managing events and users.
 
