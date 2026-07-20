@@ -155,10 +155,8 @@ npm run dev
 
 ### Home Page
 
-```
-<img width="1883" height="850" alt="Screenshot 2026-07-20 123133" src="https://github.com/user-attachments/assets/c7540f7a-63f0-431f-8eea-18cd478b4c5a" />
+<img width="1883" height="850" alt="Screenshot 2026-07-20 123133" src="https://github.com/user-attachments/assets/8ac6fe62-43da-49e5-bdb5-aae2388b8399" />
 
-```
 
 ### Login
 
@@ -223,10 +221,6 @@ git push origin feature-name
 - LinkedIn: https://www.linkedin.com/in/priyanshu-raj-162763306/
 
 ---
-
-
-<img width="1883" height="850" alt="Screenshot 2026-07-20 123133" src="https://github.com/user-attachments/assets/026cbc3f-12f4-4e00-9a1a-052765901289" />
-
 
 # ⭐ Support
 
