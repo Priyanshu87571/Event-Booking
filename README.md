@@ -156,7 +156,8 @@ npm run dev
 ### Home Page
 
 ```
-<img src="https://raw.githubusercontent.com/Priyanshu87571/Event-Booking/main/assets/home-page.png" width="100%" alt="Home Page">
+<img width="1883" height="850" alt="Screenshot 2026-07-20 123133" src="https://github.com/user-attachments/assets/c7540f7a-63f0-431f-8eea-18cd478b4c5a" />
+
 ```
 
 ### Login
