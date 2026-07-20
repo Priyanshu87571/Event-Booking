@@ -160,9 +160,7 @@ npm run dev
 
 ### Login
 
-```
-assets/login.png
-```
+
 
 ### Dashboard
 
