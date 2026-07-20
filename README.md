@@ -156,7 +156,9 @@ npm run dev
 ### Home Page
 
 ```
-"C:\Users\Admin\OneDrive\Pictures\Screenshots\Screenshot 2026-07-20 123133.png"
+<p align="center">
+  <img src="./assets/home-page.png" alt="Home Page" width="100%">
+</p>
 ```
 
 ### Login
