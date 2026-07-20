@@ -162,6 +162,7 @@ npm run dev
 
 <img width="1805" height="852" alt="image" src="https://github.com/user-attachments/assets/9fb0eb83-3caf-4c2b-a32b-a887bb10b5db" />
 
+<img width="1726" height="832" alt="image" src="https://github.com/user-attachments/assets/6cb6d3ca-13de-4883-9c6a-53d37bc5a9d4" />
 
 
 ### Dashboard
