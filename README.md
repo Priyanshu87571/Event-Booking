@@ -160,7 +160,7 @@ npm run dev
 
 ### Login
 
-<img width="1877" height="855" alt="image" src="https://github.com/user-attachments/assets/f8f525bd-1601-465b-b34a-6dbee2f53a29" />
+<img width="1805" height="852" alt="image" src="https://github.com/user-attachments/assets/9fb0eb83-3caf-4c2b-a32b-a887bb10b5db" />
 
 
 
