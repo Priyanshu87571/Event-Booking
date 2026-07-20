@@ -224,6 +224,10 @@ git push origin feature-name
 
 ---
 
+
+<img width="1883" height="850" alt="Screenshot 2026-07-20 123133" src="https://github.com/user-attachments/assets/026cbc3f-12f4-4e00-9a1a-052765901289" />
+
+
 # ⭐ Support
 
 If you found this project helpful, please consider giving it a ⭐ on GitHub!
