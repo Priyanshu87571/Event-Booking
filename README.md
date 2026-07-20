@@ -152,7 +152,6 @@ npm run dev
 
 # 📸 Screenshots
 
-> Add screenshots here after deployment.
 
 ### Home Page
 
