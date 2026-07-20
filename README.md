@@ -155,7 +155,7 @@ npm run dev
 
 ### Home Page
 
-<img width="1883" height="850" alt="Screenshot 2026-07-20 123133" src="https://github.com/user-attachments/assets/8ac6fe62-43da-49e5-bdb5-aae2388b8399" />
+<img width="1878" height="848" alt="image" src="https://github.com/user-attachments/assets/54dababc-b2d1-4bd8-ace1-5c4973503e88" />
 
 
 ### Login
