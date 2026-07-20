@@ -167,9 +167,11 @@ npm run dev
 
 ### Dashboard
 
-```
-assets/dashboard.png
-```
+<img width="1878" height="848" alt="image" src="https://github.com/user-attachments/assets/54dababc-b2d1-4bd8-ace1-5c4973503e88" />
+
+<img width="1808" height="827" alt="image" src="https://github.com/user-attachments/assets/ea092678-9fd5-4a70-a536-ac116d62e23f" />
+
+<img width="1841" height="285" alt="image" src="https://github.com/user-attachments/assets/bd2095ba-8034-4aa5-b610-603e0380cdd5" />
 
 ---
 
